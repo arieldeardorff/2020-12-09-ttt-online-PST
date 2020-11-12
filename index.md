@@ -110,7 +110,7 @@ locations:
 
 {% if online == "online" %}
 
-This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. The link to use for this event is <{{ loc.address }}>.
+This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. The link for this event will be distributed to registered participants.
 
 {% else %}
 {% assign inperson = "true" %}
@@ -127,31 +127,16 @@ This is an online event. We will meet using the online videoconference software 
 <h4 id="accessibility">Accessibility</h4>
 
 We are committed to making this workshop
-accessible to everybody.
-The workshop organisers have checked that:
-
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-
-Materials will be provided in advance of the workshop and
-large-print handouts are available if needed by notifying the
-organizers in advance.  If we can help making learning easier for
-you (e.g. sign-language interpreters, lactation facilities) please
-please get in touch (using contact details below) and we will
+accessible to everybody. If we can help making learning easier for
+you please get in touch (using contact details below) and we will
 attempt to provide them.
 
 {% endif %}
 
 <h3>Requirements</h3>
 
-Participants should bring a laptop that is Internet connected and has a
-functioning browser. If you have it, a device for recording audio and video
-(mobile phones and laptops are OK) is useful as throughout the two days, we
-are going to record one another teaching in pairs or threes. It does not have
-to be high-quality, but it should be good enough that you can understand what
-someone is saying.
+Participants should use a computer that is Internet connected and has a
+functioning browser. 
 
 Please note that after this course is over, you will be asked to do
 three short follow-up exercises online in order to finish qualifying
