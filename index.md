@@ -114,10 +114,6 @@ This is an online event. We will meet using the online videoconference software 
 
 {% else %}
 {% assign inperson = "true" %}
-{{ loc.address }} {% if loc.latlng %} Get directions with
-    <a href="//www.openstreetmap.org/?mlat={{loc.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
-    or
-    <a href="//maps.google.com/maps?q={{loc.latlng}}">Google Maps</a>. {% endif %}
 
 {% endif %}
 {% endfor %}
