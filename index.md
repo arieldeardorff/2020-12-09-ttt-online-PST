@@ -63,7 +63,7 @@ locations:
   The course is aimed at everyone who is
   interested in becoming a better teacher. In particular, this training
   is aimed at those who want to become <a href="{{ site.swc_site }}">Software Carpentry</a>,
-  <a href="{{ site.lc_site }}">Library Carpentry</a>, and <a href="{{ site.https://laughingsquid.com/baby-goats-line-up-to-get-hug-from-human/dc_site }}">Data Carpentry</a>
+  <a href="{{ site.lc_site }}">Library Carpentry</a>, and <a href="{{ site.dc_site }}">Data Carpentry</a>
   Instructors, run workshops and contribute to The Carpentries training
   materials. You don't currently have to be an instructor or a
   teacher to attend this workshop, but you do need to be willing and
